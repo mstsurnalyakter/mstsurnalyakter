@@ -9,7 +9,7 @@ I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangla
 🏠 &nbsp; Living: Narayanganj , Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
-Connect with me!
+## Connect with me!
 
 
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />](https://www.youtube.com/channel/UCvUye_gC_i7rSQ4G0FIMECQ)
@@ -24,7 +24,7 @@ Connect with me!
 
 <!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
+## 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
 I am a web developer. Every day I'm learning something new and sharing my knowledge with others.
@@ -35,7 +35,7 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+## 👨🏽‍💻 &nbsp; My Skills :
 
 #### Key Skills on Web development:
 
@@ -64,10 +64,11 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 <!-- web related skills section ends here  -->
 
 
+### 🌱 I’m currently learning  Artificial Intelligence (AI). 
 
 <!-- my languages section starts here  -->
 
-### Languages:
+## Languages:
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
@@ -78,7 +79,7 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 
 <!-- my sports and game section starts here  -->
 
-### Sports / Game / Activities / Hobby:
+## Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket,🏸 Badminton, ♟️ Chess,
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking

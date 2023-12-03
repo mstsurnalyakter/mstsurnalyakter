@@ -35,9 +35,8 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 
 <!-- web related skills section starts here  -->
 
-## 👨🏽‍💻 &nbsp; My Skills :
+## 👨🏽‍💻 &nbsp; My Key Skills on Web development:
 
-#### Key Skills on Web development:
 
 <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
 <img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />

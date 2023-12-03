@@ -39,20 +39,20 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 
 #### Key Skills on Web development:
 
-<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
 <img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
 <img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
 <img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/Tailwind CSS.svg" />
 <img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
-<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/jquery.svg" />
-<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />
-<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />
-<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />
-<img align="left" alt="react" title="react playlist" width="65" hspace="5" src="./images/Next.js.svg" />
+<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/jquery.svg" />
+<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
+<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="react" title="react" width="65" hspace="5" src="./images/Next.js.svg" />
 <img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />
-<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />
-<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
-<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/ChatGPT.svg" />
+<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" alt="chatgpt" title="chatgpt" width="45" hspace="5" src="./images/ChatGPT.svg" />
+<img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.svg" />
 <br />
 <br />
 <br />

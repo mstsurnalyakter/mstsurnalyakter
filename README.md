@@ -49,10 +49,11 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
 <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
 <img align="left" alt="react" title="react" width="65" hspace="5" src="./images/Next.js.svg" />
+<img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.svg" />
 <img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />
 <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 <img align="left" alt="chatgpt" title="chatgpt" width="45" hspace="5" src="./images/ChatGPT.svg" />
-<img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.svg" />
+
 <br />
 <br />
 <br />

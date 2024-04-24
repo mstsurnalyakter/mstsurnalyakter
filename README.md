@@ -4,7 +4,7 @@
 
 ##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
 
-I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://www.youtube.com/channel/UCvUye_gC_i7rSQ4G0FIMECQ). I Spend most of time coding outstanding projects or recording tutorials.
+I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
 
 🏠 &nbsp; Living: Narayanganj , Dhaka, Bangladesh
 

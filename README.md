@@ -70,8 +70,8 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 ## Languages:
 
 - 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇮🇳 Hindi : Intermediate
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Comfortable
+- 🇮🇳 Hindi : Comfortable
   <br />
 
 <!-- my languages section ends here  -->

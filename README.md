@@ -12,7 +12,6 @@ I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangla
 ## Connect with me!
 
 
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />](https://www.youtube.com/channel/UCvUye_gC_i7rSQ4G0FIMECQ)
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />](https://web.facebook.com/mstsurnalyakter/)
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />](https://www.linkedin.com/in/mst-surnaly-akter/)
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/Twitter Rounded.svg" />](https://twitter.com/mstsurnalyakter)

@@ -44,8 +44,6 @@ I am a web developer. Every day I'm learning something new and sharing my knowle
 <img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/Tailwind CSS.svg" />
 <img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
 <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/jquery.svg" />
-<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
-<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
 <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
 <img align="left" alt="react" title="react" width="65" hspace="5" src="./images/Next.js.svg" />
 <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.svg" />

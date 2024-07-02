@@ -4,7 +4,7 @@
 
 ##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
 
-I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh.
+I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh.Every day I'm learning something new and sharing my knowledge with others.
 
 🏠 &nbsp; Living: Narayanganj, Dhaka, Bangladesh
 
@@ -28,14 +28,6 @@ I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangla
 
 <!-- Contact me section ends here  -->
 
-
-<!-- about-me section starts here  -->
-
-## 👨‍🏫 &nbsp; About Me
-
-<p align="justify">
-I am a web developer. Every day I'm learning something new and sharing my knowledge with others.
-</p>
 
 <br />
 <!-- about-me section ends here  -->

@@ -2,17 +2,19 @@
 <img src="https://i.ibb.co/dm9CDF2/banner.png" width="100%">
 <!-- banner image ends here  -->
 
+##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
+
+I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh.
+
+🏠 &nbsp; Living: Narayanganj, Dhaka, Bangladesh
+
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mstsurnalyakter&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
 
-I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
-
-🏠 &nbsp; Living: Narayanganj, Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
 ## Connect with me!

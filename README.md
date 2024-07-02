@@ -2,6 +2,9 @@
 <img src="https://i.ibb.co/dm9CDF2/banner.png" width="100%">
 <!-- banner image ends here  -->
 
+## :chart_with_upwards_trend: Current Stats
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mstsurnalyakter&theme=vue-dark" alt="GitHub Streak" /></a>
+
 ##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
 
 I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.

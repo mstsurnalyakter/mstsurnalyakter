@@ -29,9 +29,6 @@ I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangla
 <!-- Contact me section ends here  -->
 
 
-<br />
-<!-- about-me section ends here  -->
-
 <!-- web related skills section starts here  -->
 
 ## 👨🏽‍💻 &nbsp; My Key Skills on Web development:
@@ -76,7 +73,7 @@ I'm  a Web Developer from <img src="./images/bangladesh.png" width="18"/> Bangla
 
 ## Sports / Game / Activities / Hobby:
 
-- 🏏 Cricket,🏸 Badminton, ♟️ Chess,
+- 🏏 Cricket,🏸 Badminton, 
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Traveling
 

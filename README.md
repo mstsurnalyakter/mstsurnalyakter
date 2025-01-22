@@ -1,4 +1,5 @@
 <!-- banner image starts here -->
+<img src="https://i.ibb.co.com/SJGTmQY/banner.jpg" width="100%">
 <!-- banner image ends here  -->
 
 ##  <img src="./images/hello.gif" width="28px" alt="hi"> Hello, I'm Mst Surnaly Akter
